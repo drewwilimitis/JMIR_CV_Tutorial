@@ -1,13 +1,18 @@
-# JMIR_CV_Tutorial
-Sketch of Repository for CV tutorial for JMIR AI Submissions <br>
+# Cross Validation for Machine Learning in Healthcare   
 
-Coding resources for implementing CV/Nested CV:<br>
+<u>Coding resources</u>
 1. https://github.com/casperbh96/Nested-Cross-Validation/blob/master/nested_cv/nested_cv.py [Python Version] <br>
 2. https://github.com/stephenbates19/nestedcv_experiments [R Version] <br>
-  - https://github.com/stephenbates19/nestedcv_experiments (numerical experiments for [2] sparse/low dimensional linear models) <br>
+  - https://github.com/stephenbates19/nestedcv_experiments (numerical experiments for [2]) <br>
+  
+Note: 1. provided by the authors of this recent work: https://arxiv.org/abs/2104.00673
 
-NOTE: for Number [**2**] - This method was introduced in the paper Cross-validation: what does it estimate and how well does it do it? by Stephen Bates, Trevor Hastie, and Robert Tibshirani, available at https://arxiv.org/abs/2104.00673
+Further Code Resources & Notebooks: <br>
+1. github.com/rasbt/model-eval-article-supplementary/code [CV, Model Eval, Bias/Variance, etc.] <br>
+2. github.com/rasbt/machine-learning-notes/evaluation/ci-for-ml [CI methods like resampling/bootstrap] <br>
+3. github.com/rasbt/stat479-machine-learning-fs19/10_eval3-cv/
 
+Note: 1. gives code from articles: sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
 
 Coding/Documentation Resources for MIMIC/eICU: <br>
 1. MIMIC/MIT Website with Docs/Code Links: https://mimic.mit.edu/ <br>
