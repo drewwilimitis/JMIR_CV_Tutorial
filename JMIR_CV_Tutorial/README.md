@@ -1,5 +1,10 @@
-# JMIR_CV_Tutorial
-Sketch of Repository for CV tutorial for JMIR AI Submissions <br>
+# JMIR Cross-Validation Tutorial for Predictive Modeling in Healthcare
+___
+
+We are releasing this open-source code base alongside a manuscript we hope to publish soon that covers cross-validation and model evaluation methods while offering an applied demonstration using best cross-validation practices using the widely available MIMIC-III dataset. <br>
+
+As we await manuscript review and our code base requires further polishing, we give a list of sources below that we found helpful.
+
 
 Coding resources for implementing CV/Nested CV:<br>
 1. https://github.com/casperbh96/Nested-Cross-Validation/blob/master/nested_cv/nested_cv.py [Python Version] <br>
