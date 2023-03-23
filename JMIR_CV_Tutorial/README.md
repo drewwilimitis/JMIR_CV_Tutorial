@@ -1,4 +1,4 @@
-# Cross-Validation: Applied Tutorial for Predictive Modeling in Healthcare
+# Cross-Validation Tutorial: Predictive Modeling in Healthcare
 ___
 
 We are releasing this open-source code base alongside a manuscript we hope to publish soon that covers cross-validation and model evaluation methods while offering an applied demonstration using best cross-validation practices using the widely available MIMIC-III dataset. <br>
