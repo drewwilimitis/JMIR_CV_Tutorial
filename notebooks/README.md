@@ -1,7 +1,7 @@
 # Cross-Validation Tutorial: Predictive Modeling in Healthcare
 ___
 
-We are releasing this open-source code base alongside a manuscript we hope to publish soon that covers cross-validation and model evaluation methods while offering an applied demonstration using best cross-validation practices using the widely available MIMIC-III dataset. <br>
+We are releasing this open-source code repository alongside a manuscript we hope to publish soon. Our work outlines the funadmental approach of cross-validation for model evaluation and model selection with a focus on applied predictive modeling in healthcare. We offer an applied demonstration of cross-validation best practices with exemplar problems in classification (in-hospital morality prediction) and regression (length-of-stay prediction) using the widely available MIMIC-III dataset. <br>
 
 As we await manuscript review and our code base requires further polishing, we give a list of sources below that we found helpful.
 
